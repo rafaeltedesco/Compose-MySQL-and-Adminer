@@ -2,7 +2,7 @@
 
 A credencial foi adicionada no docker-compose.yml para fins didáticos (Não faça isso em projetos reais!).
 
-Pasta de dump de databases: [database](./databases/)
+[Pasta de dump de databases](./databases/)
 
 ### Para executar:
 
