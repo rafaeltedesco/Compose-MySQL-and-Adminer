@@ -10,5 +10,5 @@ Pasta de dump de databases: [database](./database/)
     docker-compose up -d
 ```
 
-Em seguida acesse ![localhost](http://localhost:8080/),
+Em seguida acesse [localhost](http://localhost:8080/),
 adicione o usuário `root` e senha `root`
